@@ -1,5 +1,5 @@
 
-const NOME_CACHE_ATUAL = 'precache-v43';
+const NOME_CACHE_ATUAL = 'precache-v44';
 const RUNTIME = 'runtime';
 
 console.log("versão do sw1" + NOME_CACHE_ATUAL);
