@@ -3,12 +3,12 @@
   "short_name": "PWAConf",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "orange",
+  "background_color": "green",
   "description": "A demo app for a fictional conference",
-  "theme_color": "orange",
+  "theme_color": "green",
   "icons": [
     {
-      "src": "./img/icons/icon-512x512.png",
+      "src": "./images/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
