@@ -15,7 +15,7 @@ if ('serviceWorker' in navigator) {
 // A list of local resources we always want to be cached.
 const CONTEUDO_DO_CACHE = [
   './', // Alias for index.html
-  'views/css/main.css'
+  //'views/css/main.css'
  // 'app.js'
 ];
 
